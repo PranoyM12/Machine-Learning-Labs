@@ -11,7 +11,6 @@
 - **Roll Number:** 36
 - **Lab Number:** 9
 - **Date of Performance:** 30/10/2026
-- **Repository Link:** [Add your GitHub repository URL here]
 
 ---
 
